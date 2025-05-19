@@ -2,7 +2,7 @@
 
 export default function Body() {
     return (
-        <div className="text-zinc-900 font-medium p-2 m-0.5">
+        <div className="text-zinc-900 font-medium p-2 m-1.5">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga eos quidem eaque voluptatum consectetur, labore, maxime nesciunt et ducimus, repellendus quae doloribus! Mollitia, nihil amet quia aliquid explicabo dolores doloremque corrupti fuga quibusdam architecto placeat voluptate asperiores. Hic, quis alias itaque voluptatem porro earum rerum reprehenderit modi ratione. Eligendi ratione odio impedit nobis adipisci reiciendis recusandae nisi obcaecati consequuntur iusto quasi in doloremque sit cupiditate ducimus rem repudiandae quaerat unde ut, cumque corporis. Saepe rem dignissimos optio magnam tempora voluptatum culpa, amet veritatis assumenda aspernatur minus quos nobis consectetur molestiae iusto quam veniam sit aut! Voluptas veniam quia hic unde ab, doloremque quidem at architecto nisi dolor numquam sint facere. Possimus dignissimos saepe totam ut, reprehenderit consequuntur placeat provident aut, eos asperiores molestias nesciunt, tempore fuga reiciendis. Quae quasi quia dolore possimus sunt! Pariatur, magnam at. Veniam repellendus illo laboriosam repudiandae repellat tempora possimus voluptatibus a distinctio quibusdam! Dignissimos obcaecati molestias quae id alias possimus. Culpa architecto aperiam optio incidunt necessitatibus non provident laudantium vero, ducimus beatae sed hic? Est incidunt corrupti atque quis. Quibusdam, iusto quos? Iste, harum, nesciunt sequi optio adipisci itaque dignissimos ex temporibus necessitatibus ullam deleniti veniam exercitationem dicta? Dolore architecto nisi dignissimos, earum iste repellat.0</div>
     )
 }

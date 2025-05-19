@@ -1,4 +1,4 @@
-import header_img from './Header_image.jpg'
+import header_img from './imgs/Header_image.jpg'
 
 export default function HeaderImage() {
     return (
