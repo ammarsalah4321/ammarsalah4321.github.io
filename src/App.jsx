@@ -1,7 +1,7 @@
 import Header from "./layout/Header"
 import Body from "./layout/Body"
 import Nav from "./layout/Nav"
-
+import Footer from "./layout/Footer"
 function App() {
 
   return (
@@ -9,10 +9,10 @@ function App() {
       <Nav />
 
       <Header />
+
       <Body />
 
-
-      {/* <Footer />*/}
+       <Footer />
     </div>
   )
 }
